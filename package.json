@@ -1,0 +1,13 @@
+{
+  "name": "news_api",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "git@github.com:CodedDeveloper117/NewsScraperApi.git",
+  "author": "CodedDeveloper",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.2",
+    "puppeteer": "^13.1.1"
+  }
+}
